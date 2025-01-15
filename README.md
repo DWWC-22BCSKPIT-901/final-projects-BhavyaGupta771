@@ -1,2 +1,26 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eS35DEyZ)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17718932&assignment_repo_type=AssignmentRepo)
+## Overview
+AI-based weather prediction system with a 5-day forecast, AI confidence levels, weather metrics (temperature, humidity, wind speed), and location-based predictions. Currently using mock data, with plans to integrate real-time APIs and machine learning models for accuracy.
+
+## Features
+5-day weather forecast with AI confidence levels  
+Historical prediction accuracy tracking  
+Detailed weather metrics (temp, humidity, wind speed)  
+Visual weather indicators (sunny, cloudy, rainy)  
+Location-based predictions  
+Responsive design for all screen sizes  
+
+## Usage
+Enter a location for a 5-day forecast  
+View weather metrics and AI confidence levels  
+Track historical prediction accuracy  
+Visual indicators show weather conditions  
+
+## Future Enhancements
+Integrate real-time weather data (APIs)  
+Implement machine learning models  
+Add user authentication and dark mode  
+
+## Acknowledgements
+Mock weather data  
+UI icons from IconLibrary  
+Built with React  
